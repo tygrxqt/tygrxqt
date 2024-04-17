@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>tygrxqt</h2>
+  <h2>Ty Mason (tygrxqt)</h2>
   <p>
     Founder of <a href="https://github.com/nord-studio">Nord Studio</a> and <a href="https://github.com/lofustudio">Lofu Studio</a>
     <br />
